@@ -13,3 +13,5 @@ console.log(product);
 product.categoria = ' Calzado'
 
 console.log(product);
+
+product.stock = 8790
